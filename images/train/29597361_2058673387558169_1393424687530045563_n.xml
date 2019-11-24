@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ski</folder>
+	<filename>29597361_2058673387558169_1393424687530045563_n.jpg</filename>
+	<path>C:\Users\s5906021631024\Desktop\DataFace\Ski\29597361_2058673387558169_1393424687530045563_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>860</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ski</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>45</ymin>
+			<xmax>638</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

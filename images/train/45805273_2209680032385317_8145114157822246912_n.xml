@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AL</folder>
+	<filename>45805273_2209680032385317_8145114157822246912_n.jpg</filename>
+	<path>C:\Users\s5906021631024\Desktop\DataFace\AL\45805273_2209680032385317_8145114157822246912_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>841</width>
+		<height>839</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>188</ymin>
+			<xmax>555</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

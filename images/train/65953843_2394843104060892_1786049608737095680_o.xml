@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nut</folder>
+	<filename>65953843_2394843104060892_1786049608737095680_o.jpg</filename>
+	<path>C:\Users\s5906021631024\Desktop\DataFace\Nut\65953843_2394843104060892_1786049608737095680_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>1296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nut</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>177</ymin>
+			<xmax>934</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
